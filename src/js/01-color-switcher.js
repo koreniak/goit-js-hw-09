@@ -1,5 +1,5 @@
 const DELAY = 1000;
-colorId = null;
+let colorId = null;
 
 const refs = {
     startBtn: document.querySelector('[data-start]'),
